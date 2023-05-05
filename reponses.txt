@@ -1,0 +1,8 @@
+6.
+a.) La différence entre eux est que la cmd "git pull" permet de télecharger les fichiers mise à jour sur le serveur distant tandis que "git fetch" permet de télécharger des commits, des fichiers et des références d'un dépôt distant vers votre dépôt local.
+
+b.) On peut annuler les modifications locales non validées dans Git en revenant au commit précendant.
+
+c.) On peut supprimer une branche distante dans Git en supprimant d'abord en local et en effectuant ensuite un push ou une mise à jour sur le serveur distant.
+
+d.) On peut voir l'historique des modifications pour un fichier spécifique dans Git en appuyant sur "git log" suivi du nom du fichier. 
